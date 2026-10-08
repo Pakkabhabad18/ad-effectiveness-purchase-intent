@@ -1,0 +1,5 @@
+Regression results for PP
+Slope (β1): 0.7712057198570039
+Intercept (β0): 0.8028111797205053
+R-squared: 0.5045688373919684
+Samples used: 25

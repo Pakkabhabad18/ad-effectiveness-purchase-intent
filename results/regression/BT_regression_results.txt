@@ -1,0 +1,5 @@
+Regression results for BT
+Slope (β1): 0.39657853810264365
+Intercept (β0): 2.026049766718508
+R-squared: 0.30644705217022483
+Samples used: 15

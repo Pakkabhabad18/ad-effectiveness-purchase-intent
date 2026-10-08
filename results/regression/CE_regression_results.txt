@@ -1,0 +1,5 @@
+Regression results for CE
+Slope (β1): 0.5426844623520523
+Intercept (β0): 1.1834550491060192
+R-squared: 0.34447275887147943
+Samples used: 20

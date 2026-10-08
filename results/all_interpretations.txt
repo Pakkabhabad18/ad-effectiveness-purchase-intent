@@ -1,0 +1,90 @@
+
+==========================
+Regression Interpretation - CE
+==========================
+
+Slope (beta1): 0.5427
+R-squared: 0.3445
+
+Interpretation:
+Strong positive effect: higher ad evaluation -> higher purchase intention.
+Moderate predictive power (R2 = 0.34).
+
+Overall Meaning:
+A 1-point increase in ad evaluation (B1-B4)
+results in a 0.54-point change in PI_total (D1-D4).
+The model explains 34.4% of the variance in purchase intention for CE.
+
+
+
+==========================
+Regression Interpretation - AC
+==========================
+
+Slope (beta1): 0.8979
+R-squared: 0.3757
+
+Interpretation:
+Strong positive effect: higher ad evaluation -> higher purchase intention.
+Moderate predictive power (R2 = 0.38).
+
+Overall Meaning:
+A 1-point increase in ad evaluation (B1-B4)
+results in a 0.90-point change in PI_total (D1-D4).
+The model explains 37.6% of the variance in purchase intention for AC.
+
+
+
+==========================
+Regression Interpretation - PP
+==========================
+
+Slope (beta1): 0.7712
+R-squared: 0.5046
+
+Interpretation:
+Strong positive effect: higher ad evaluation -> higher purchase intention.
+Strong predictive power (R2 = 0.50).
+
+Overall Meaning:
+A 1-point increase in ad evaluation (B1-B4)
+results in a 0.77-point change in PI_total (D1-D4).
+The model explains 50.5% of the variance in purchase intention for PP.
+
+
+
+==========================
+Regression Interpretation - BT
+==========================
+
+Slope (beta1): 0.3966
+R-squared: 0.3064
+
+Interpretation:
+Moderate positive effect: higher ad evaluation -> higher purchase intention.
+Moderate predictive power (R2 = 0.31).
+
+Overall Meaning:
+A 1-point increase in ad evaluation (B1-B4)
+results in a 0.40-point change in PI_total (D1-D4).
+The model explains 30.6% of the variance in purchase intention for BT.
+
+
+
+==========================
+Regression Interpretation - ST
+==========================
+
+Slope (beta1): 0.8696
+R-squared: 0.5107
+
+Interpretation:
+Strong positive effect: higher ad evaluation -> higher purchase intention.
+Strong predictive power (R2 = 0.51).
+
+Overall Meaning:
+A 1-point increase in ad evaluation (B1-B4)
+results in a 0.87-point change in PI_total (D1-D4).
+The model explains 51.1% of the variance in purchase intention for ST.
+
+

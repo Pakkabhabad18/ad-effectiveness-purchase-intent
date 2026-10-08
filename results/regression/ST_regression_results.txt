@@ -1,0 +1,5 @@
+Regression results for ST
+Slope (β1): 0.86958174904943
+Intercept (β0): 0.3323193916349796
+R-squared: 0.5107173754689384
+Samples used: 19

@@ -1,0 +1,5 @@
+Regression results for AC
+Slope (β1): 0.8978741142142559
+Intercept (β0): 0.1427678199249689
+R-squared: 0.3756839242458251
+Samples used: 24
